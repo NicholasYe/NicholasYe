@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact : ...
+- ⚡ Fun fact: ...
 --> 
 
 ### Hi there 👋 I am NicholasYe
@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 - 💻 Language mainly used : C++, Matlab, Python.
 - 🕹️ Microcontroller mainly used : Arduino, STM32, DSP.
 - 📧 Reach me at my email : [tingzhen.ye@foxmail.com](mailto:tingzhen.ye@foxmail.com)
-- ⚡ Fun fact: I can turn caffeine into electrons.
+- ⚡ Fun fact : I can turn caffeine into electrons.
 
-![NicholasYe's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicholasYe)
+<!-- ![NicholasYe's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicholasYe) -->
 
 
 <!-- &hide=javascript,html -->
