@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - Language mainly used : C++, Matlab, Python.
 - Reach me at my email : [tingzhen.ye@foxmail.com](mailto:tingzhen.ye@foxmail.com)
 
-![NicholasYe's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfp0610)
+![NicholasYe's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicholasYe)
 
 
 <!-- &hide=javascript,html -->
