@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 ### Hi there 👋 I am NicholasYe
 
 - I am an undergraduate student majoring in [Electrical Engineering and Automation](http://english.seee.hust.edu.cn/) at [Huazhong University of Science and Technology.](http://english.hust.edu.cn/)  
-- Welcome to see my homepage : [NicholasYe](https://nicholasye.github.io/)
+- Welcome to see my [homepage](https://nicholasye.github.io/) where you can find more information about me.
 - Language mainly used : C++, Matlab, Python.
 - Reach me at my email : [tingzhen.ye@foxmail.com](mailto:tingzhen.ye@foxmail.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfp0610)
+![NicholasYe's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfp0610)
 
 
 <!-- &hide=javascript,html -->
