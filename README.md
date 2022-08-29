@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-### Hi there 👋 I am [NicholasYe](https://nicholasye.github.io/)
+### Hi there 👋 I am [NicholasYe](https://nicholasye.github.io/) [![Hi there](http://www.NicholasYe.xyz:8080/count/tag.svg?url=github%2FNicholasYe)](https://rushter.com/blog/github-profile-markdown/)
 
 - 🏫 I am an undergraduate student majoring in [Electrical Engineering and Automation](http://english.seee.hust.edu.cn/) at [HUST.](http://english.hust.edu.cn/)  
 - 👨‍🎓 Welcome to see my [homepage](https://nicholasye.github.io/) where you can find more information about me.
