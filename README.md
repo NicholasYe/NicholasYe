@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 👨‍🎓 Welcome to see my [homepage](https://nicholasye.github.io/) where you can find more information about me.
 - 💻 Language mainly used: Python, Matlab, C++.
 - 🕹️ Microcontroller mainly used: Arduino, STM32, DSP.
-- 📧 Reach me at my email: [tingzhen.ye@foxmail.com](mailto:tingzhen.ye@foxmail.com)
+- 📧 Reach me at my email: [tye1102@outlook.com](mailto:tye1102@outlook.com)
 - ⚡ Fun fact: I can turn caffeine into electrons.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=NicholasYe&show_icons=true" />
