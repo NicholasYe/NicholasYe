@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasYe&layout=compact&count_private=true" />
+
 --> 
 
 ### Hi there 👋 I am [NicholasYe](https://nicholasye.github.io/)
@@ -24,7 +27,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I can turn caffeine into electrons.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=NicholasYe&show_icons=true&count_private=true&hide=issues,contribs" />
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasYe&layout=compact&count_private=true" />
 
 <!-- &hide=javascript,html -->
