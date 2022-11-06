@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 - 📧 Reach me at my email: [tye2024@gmail.com](mailto:tye2024@gmail.com) | [tingzhen.ye@foxmail.com](mailto:tingzhen.ye@foxmail.com)
 - ⚡ Fun fact: I can turn caffeine into electrons.
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=NicholasYe&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=NicholasYe&show_icons=true&count_private=true&hide=issues,contribs" />
 
 <!-- &hide=javascript,html -->
