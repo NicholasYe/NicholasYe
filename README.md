@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=NicholasYe&show_icons=true&count_private=true&hide=issues,contribs" />
 
-<!-- &hide=javascript,html -->
-
 --> 
 
 ### Hi there 👋 I am [NicholasYe](https://nicholasye.github.io/)
@@ -26,3 +24,7 @@ Here are some ideas to get you started:
 - 🕹️ Microcontroller mainly used: Arduino, STM32, DSP.
 - 📧 Reach me at my email: [tye2024@gmail.com](mailto:tye2024@gmail.com) (en) | [tingzhen.ye@foxmail.com](mailto:tingzhen.ye@foxmail.com) (zh)
 - ⚡ Fun fact: I can turn caffeine into electrons.
+
+
+<!-- &hide=javascript,html -->
+
