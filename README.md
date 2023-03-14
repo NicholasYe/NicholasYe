@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 --> 
 
-### Hi there 👋 I am [NicholasYe](https://nicholasye.github.io/)
+### Hi there 👋 I am **NicholasYe**.
 
 - 🏫 I am an undergraduate student majoring in [Electrical Engineering and Automation](http://english.seee.hust.edu.cn/) at [HUST.](http://english.hust.edu.cn/)  
 - 💻 Language mainly used: Python, Matlab, C++.
