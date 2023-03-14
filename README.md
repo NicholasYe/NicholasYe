@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasYe&layout=compact&count_private=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=NicholasYe&show_icons=true&count_private=true&hide=issues,contribs" />
+
+<!-- &hide=javascript,html -->
 
 --> 
 
@@ -24,7 +26,3 @@ Here are some ideas to get you started:
 - 🕹️ Microcontroller mainly used: Arduino, STM32, DSP.
 - 📧 Reach me at my email: [tye2024@gmail.com](mailto:tye2024@gmail.com) (en) | [tingzhen.ye@foxmail.com](mailto:tingzhen.ye@foxmail.com) (zh)
 - ⚡ Fun fact: I can turn caffeine into electrons.
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=NicholasYe&show_icons=true&count_private=true&hide=issues,contribs" />
-
-<!-- &hide=javascript,html -->
