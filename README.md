@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### Hi there 👋 I am **NicholasYe**.
 
 - 🏫 I am an undergraduate student majoring in [Electrical Engineering and Automation](http://english.seee.hust.edu.cn/) at [HUST](http://english.hust.edu.cn/).
-- 🎓 I am admitted to [MSc Electic Power Engineering](https://www.kth.se/en/studies/master/electric-power-engineering) program at [KTH Royal Institute of Technology](https://www.kth.se/en).
+- 🎓 I am also a master's student majoring in [Electric Power Engineering](https://www.kth.se/en/studies/master/electric-power-engineering/msc-electric-power-engineering-1.7892) at [KTH Royal Institute of Technology](https://www.kth.se/en).
 - 💻 Language mainly used: Python, Matlab, C/C++.
 - 🕹️ Microcontroller mainly used: Arduino, STM32, DSP.
 - 📧 Reach me at my email: [tye2024@gmail.com](mailto:tye2024@gmail.com) (en) | [tingzhen.ye@foxmail.com](mailto:tingzhen.ye@foxmail.com) (zh)
