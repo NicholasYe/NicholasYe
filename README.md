@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 
 - 🏫 I am an undergraduate student majoring in [Electrical Engineering and Automation](http://english.seee.hust.edu.cn/) at [HUST](http://english.hust.edu.cn/).
 - 🎓 I am also a master's student majoring in [Electric Power Engineering](https://www.kth.se/en/studies/master/electric-power-engineering/msc-electric-power-engineering-1.7892) at [KTH](https://www.kth.se/en).
-- 💻 Language mainly used: Python, Matlab, C/C++.
-- 🕹️ Microcontroller mainly used: Arduino, STM32, DSP.
-- 📧 Reach me at my email: [tye2024@gmail.com](mailto:tye2024@gmail.com) (en) | [tingzhen.ye@foxmail.com](mailto:tingzhen.ye@foxmail.com) (zh)
+- 💻 Programming Language: Python, Matlab, C/C++.
+- 🧮 Simulation Software: Simulink, Plecs, PSCAD, LTSpice.
+- 🕹️ Microcontroller: Arduino, STM32, DSP.
+- 📧 Reach me at my email: [tingzhen@kth.se](mailto:tingzhen@kth.se)
 - ⚡ Fun fact: I can turn caffeine into electrons.
 
 
