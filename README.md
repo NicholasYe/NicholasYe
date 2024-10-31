@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 💻 Programming Language: Python, Matlab, C/C++.
 - 🧮 Simulation Software: Simulink, Plecs, PSCAD, LTSpice.
 - 🕹️ Microcontroller: Arduino, STM32, DSP.
-- 📧 Reach me at my email: [tingzhen@kth.se](mailto:tingzhen@kth.se)
+- 📧 Reach me at my email: [tingzhen1102@gmail.com](mailto:tingzhen1102@gmail.com)
 - ⚡ Fun fact: I can turn caffeine into electrons.
 
 
