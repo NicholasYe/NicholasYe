@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 --> 
 
-### Hi there 👋 I am **NicholasYe**.
+### Hi there 👋 I'm **NicholasYe**.
 
 - 🏫 I am graduated from [Electrical Engineering and Automation](http://english.seee.hust.edu.cn/) at [HUST](http://english.hust.edu.cn/).
 - 🎓 I am now a master's student majoring in [Electric Power Engineering](https://www.kth.se/en/studies/master/electric-power-engineering/msc-electric-power-engineering-1.7892) at [KTH](https://www.kth.se/en).
